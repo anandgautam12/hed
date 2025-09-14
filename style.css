@@ -67,8 +67,8 @@ h2 .bigS {
 
 /* Engineer photo – लंबी */
 .engineer {
-  width: 500px;
-  height: 600px;
+  width: 400px;
+  height: 450px;
   object-fit: cover;
   border-radius: 20px;
   margin: 30px 0;
@@ -104,6 +104,7 @@ canvas {
   z-index: -1;
   background: transparent;
 }
+
 
 
 
